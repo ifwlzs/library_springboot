@@ -4,7 +4,7 @@
 
 # 关于
 
-本项目起源于library servlet重构。原项目地址：[https://github.com/ifwlzs/library_servlet](https://github.dev/ifwlzs/library_servlet)
+本项目为library servlet的重构。原项目地址：[https://github.com/ifwlzs/library_servlet](https://github.dev/ifwlzs/library_servlet)
 
 # 用前须知
 
@@ -214,5 +214,4 @@ E-R模型如图所示:
 ![404页面](https://gitee.com/ifwlzs/img/raw/master/img/image-20211104152031015.png)
 
 ![服务器错误](https://gitee.com/ifwlzs/img/raw/master/img/image-20211104152219348.png)
-
 
